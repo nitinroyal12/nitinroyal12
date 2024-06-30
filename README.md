@@ -1,4 +1,4 @@
-<video src="./welcome.mp4"  width="100%"autoplay muted playsinline ></video>
+![banner](https://github.com/nitinroyal12/nitinroyal12/blob/main/Purple%20and%20Black%20Simple%20Coming%20Soon%20Banner.png)
 <h1 align="center">Hi 👋, I'm Nitin</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
