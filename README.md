@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **nitinthakur12390@gmail.com**
 
-- 📄 Know about my experiences [asdasa](asdasa)
+- 📄 Know about my experiences [resume](https://github.com/nitinroyal12/nitinroyal12/blob/main/nitin.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
