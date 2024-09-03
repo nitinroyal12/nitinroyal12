@@ -8,8 +8,7 @@
 
 - 🔭 I’m currently working on [E-commerce Website](https://www.mayavifashion.com/)
 
-- 🌱 I’m currently learning **DevOps , angular**
-
+- 🌱 I’m currently learning **DevOps 
 - 👨‍💻 All of my projects are available at [https://modern-portfolio-topaz.vercel.app/](https://modern-portfolio-topaz.vercel.app/)
 
 - 💬 Ask me about **react.js ,next.js, js and ts developer**
